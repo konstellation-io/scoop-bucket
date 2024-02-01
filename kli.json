@@ -6,14 +6,14 @@
             "bin": [
                 "kai-kli_0.4.2_windows-amd64/bin/kli.exe"
             ],
-            "hash": "69cedeaa1ea540911aa7508c558b048856dc4fd659a6d5f82e6e3bb8d827925f"
+            "hash": "98c3f933b0b226d25a90492db3e4a14ce9ed6c6cb93bdaf2e5ac07b13929fd6d"
         },
         "arm64": {
             "url": "https://github.com/konstellation-io/kai-kli/releases/download/v0.4.2/kai-kli_0.4.2_windows-arm64.zip",
             "bin": [
                 "kai-kli_0.4.2_windows-arm64/bin/kli.exe"
             ],
-            "hash": "a5e3c5531294ec1a0d08fe9b5d0eea49bb7dc009024cebed995b1d277c0423c3"
+            "hash": "7635399f08b7bb2bdda2f08d597e029e7a51b3a1558e2379aa0effb0d6788eee"
         }
     },
     "homepage": "https://github.com/konstellation-io/kai-kli",
