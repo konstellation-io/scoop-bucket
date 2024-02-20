@@ -1,19 +1,19 @@
 {
-    "version": "0.6.1",
+    "version": "0.6.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/konstellation-io/kai-kli/releases/download/v0.6.1/kai-kli_0.6.1_windows-amd64.zip",
+            "url": "https://github.com/konstellation-io/kai-kli/releases/download/v0.6.2/kai-kli_0.6.2_windows-amd64.zip",
             "bin": [
-                "kai-kli_0.6.1_windows-amd64/bin/kli.exe"
+                "kai-kli_0.6.2_windows-amd64/bin/kli.exe"
             ],
-            "hash": "136daf336d90ae550ff718a940baa9c05a6182a208c6d37a7b7491d9bce16435"
+            "hash": "cf029891e93a0310b5a2391e3eb065ca4304e87ccf01fee08c2252605aa40962"
         },
         "arm64": {
-            "url": "https://github.com/konstellation-io/kai-kli/releases/download/v0.6.1/kai-kli_0.6.1_windows-arm64.zip",
+            "url": "https://github.com/konstellation-io/kai-kli/releases/download/v0.6.2/kai-kli_0.6.2_windows-arm64.zip",
             "bin": [
-                "kai-kli_0.6.1_windows-arm64/bin/kli.exe"
+                "kai-kli_0.6.2_windows-arm64/bin/kli.exe"
             ],
-            "hash": "71daf028a24ead01ae2494f19b265005f10263268331597c2ef4ae6f1994db82"
+            "hash": "07aa7a93f50a9827117d1bb1ce378404283c8f945468bdf19d63b57b3beda87f"
         }
     },
     "homepage": "https://github.com/konstellation-io/kai-kli",
